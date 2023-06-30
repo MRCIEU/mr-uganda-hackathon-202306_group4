@@ -1,2 +1,6 @@
-# mr-uganda-hackathon-202306_group4
-MRC Uganda MR short course Hackathon Project Group 4
+# Group 4's MRC Uganda Hackathon 
+
+## Date: June 2023
+
+
+
